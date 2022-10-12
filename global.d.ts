@@ -1,0 +1,3 @@
+interface Navigator{
+    serial? : any
+}
